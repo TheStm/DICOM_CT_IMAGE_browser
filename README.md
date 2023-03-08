@@ -25,6 +25,11 @@ especially CT (computed tomography). The project was developed using Python, PyS
 <img src="/examples/brightness.jpg" alt="BRIGHTNESS and CONTRAST" style="width:50%">
 </figure>
 
+- You can display all slices
+<figure>
+<img src="/examples/show_all.jpg" alt="SHOW ALL" style="width:50%">
+</figure>
+
 - You can apply filters or change color pallet
 <figure>
 <img src="/examples/filter.jpg" alt="FILTER" style="width:50%">
