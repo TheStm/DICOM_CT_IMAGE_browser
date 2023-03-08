@@ -14,15 +14,34 @@ especially CT (computed tomography). The project was developed using Python, PyS
 
 - Upload folder with dicom series
 - You can draw lines on picture by left click and check an actual distance value
-<figure>
-<img src="/examples/line.jpg" alt="LINE" style="width:100%">
-<figcaption align = "center"><b>Description</b></figcaption>
-</figure>
 - You can hover your mouse over the photo and check HU value
+<figure>
+<img src="/examples/line.jpg" alt="LINE" style="width:50%">
+</figure>
+
 - You can change current dicom file using slider on the right
 - You can change brightness and contrast using sliders under dicom picture
+<figure>
+<img src="/examples/brightness.jpg" alt="LINE" style="width:50%">
+</figure>
+
 - You can apply filters or change color pallet
+<figure>
+<img src="/examples/filter.jpg" alt="LINE" style="width:50%">
+</figure>
+
 - You can apply and change the value of threshold using slider
+<figure>
+<img src="/examples/threshold.jpg" alt="LINE" style="width:50%">
+</figure>
+
 - You can apply lungs mask
+<figure>
+<img src="/examples/mask.jpg" alt="LINE" style="width:50%">
+</figure>
+
 - You can turn on WAND mode, draw lines, chose ROI and check its real surface area
+<figure>
+<img src="/examples/WAND.jpg" alt="LINE" style="width:50%">
+</figure>
 
