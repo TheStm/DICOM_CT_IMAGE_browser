@@ -22,22 +22,22 @@ especially CT (computed tomography). The project was developed using Python, PyS
 - You can change current dicom file using slider on the right
 - You can change brightness and contrast using sliders under dicom picture
 <figure>
-<img src="/examples/brightness.jpg" alt="LINE" style="width:50%">
+<img src="/examples/brightness.jpg" alt="BRIGHTNESS and CONTRAST" style="width:50%">
 </figure>
 
 - You can apply filters or change color pallet
 <figure>
-<img src="/examples/filter.jpg" alt="LINE" style="width:50%">
+<img src="/examples/filter.jpg" alt="FILTER" style="width:50%">
 </figure>
 
 - You can apply and change the value of threshold using slider
 <figure>
-<img src="/examples/threshold.jpg" alt="LINE" style="width:50%">
+<img src="/examples/threshold.jpg" alt="THRESHOLD" style="width:50%">
 </figure>
 
 - You can apply lungs mask
 <figure>
-<img src="/examples/mask.jpg" alt="LINE" style="width:50%">
+<img src="/examples/mask.jpg" alt="LUNG MASK" style="width:50%">
 </figure>
 
 - You can turn on WAND mode, draw lines, chose ROI and check its real surface area
