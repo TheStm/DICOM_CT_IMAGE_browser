@@ -15,7 +15,7 @@ especially CT (computed tomography). The project was developed using Python, PyS
 - Upload folder with dicom series
 - You can draw lines on picture by left click and check an actual distance value
 <figure>
-<img src="/examples/line.jp2" alt="LINE" style="width:100%">
+<img src="/examples/line.jpg" alt="LINE" style="width:100%">
 <figcaption align = "center"><b>Description</b></figcaption>
 </figure>
 - You can hover your mouse over the photo and check HU value
